@@ -29,9 +29,7 @@ Developers with existing AdSense accounts can sync this account with AdMob for m
 AdMob is used in over 650,000 apps today. Google has paid over $ 1 billion to its developers using the AdMob service. Since 2013, there has been an increase of 200 percent in CPM values. AdMob, which has over 200 billion ad impressions per month, reaches more and more users every day and contributes to the development of the ecosystem. You can use AdMob, which is preferred by over 1 million advertisers, not only for Android but also on iOS platforms.
 
 ## Screenshots 🖼
-![rewarded](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/6bfa0998-0405-4382-a89c-e5a1fb5e956b)
-![interstitial](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/5064e2bb-bf24-40a3-89c1-6bcfb26edc2d)
-![banner](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/c7437998-6b58-410e-b9e1-9f1d29952427)
+<img src="banner.png" width="250"/> || <img src="interstitial.png" width="250"/> || <img src="rewarded.png" width="250"/>
 
 ## Donation 💸
 
