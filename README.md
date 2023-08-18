@@ -23,31 +23,27 @@ Developers with existing AdSense accounts can sync this account with AdMob for m
 
 ## Who uses it❓
 
-![Admob3](admob3.jpg)
+
+![admob3](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/c660da17-a646-4681-b284-7a738989f541)
 
 AdMob is used in over 650,000 apps today. Google has paid over $ 1 billion to its developers using the AdMob service. Since 2013, there has been an increase of 200 percent in CPM values. AdMob, which has over 200 billion ad impressions per month, reaches more and more users every day and contributes to the development of the ecosystem. You can use AdMob, which is preferred by over 1 million advertisers, not only for Android but also on iOS platforms.
 
-## Blog Posts 📚 
-
-- [Android Admob Ad](https://halilozel1903.medium.com/androidde-admob-kullanımı-757ecbd609ac) 🏦
-- [Android Banner Ad](https://halilozel1903.medium.com/android-banner-reklam-518d8b910938) 💵
-- [Android Interstitial Ad](https://halilozel1903.medium.com/android-interstitial-reklam-8b1cbd827703) 💶
-- [Android Rewarded Ad](https://halilozel1903.medium.com/android-rewarded-reklam-1d6788c9f6f5) 💷
-
 ## Screenshots 🖼
-<img src="banner.png" width="250"/> || <img src="interstitial.png" width="250"/> || <img src="rewarded.png" width="250"/>
+<img src="![banner](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/42e46cf6-a0a0-46b9-a321-13cab078850d)" width="250"/> || <img src="![interstitial](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/4df81917-2be5-4bfa-9d4c-2f106e8f9e10)
+" width="250"/> || <img src="![rewarded](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/5939f59f-b3a7-47ed-aefa-fc0b5a097f80)
+" width="250"/>
 
 ## Donation 💸
 
 If this project help 💁 you, Can you give me a cup of coffee? ☕
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel1903)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ladditech)
 
 ## License ℹ️
 ```
 MIT License
 
-Copyright (c) 2022 Halil OZEL
+Copyright (c) 2022 Ladla Jutt-ENG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
