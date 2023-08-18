@@ -1,15 +1,10 @@
-# AdMobApp
-Android app for using AdMob (Interstitial, Rewarded, Banner) 💵 💶 💷 💴
 # AdMob 🤑 App 📱
-
-![Android](admob.png)
 
 It is an Android project with AdMob usage and examples. There are examples of 3 types of advertisement in our project. These ad types are: `Banner`, `Interstitial` and `Rewarded`. Application is developed using Android Emulator.
 
-
 ## What is AdMob❓
 
-![Admob](admob2.png)
+![admob2](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/e7fc70aa-de9b-416a-aedd-7490ad768988)
 
 AdMob is an advertising service that enables mobile app developers to generate revenue.
 It should not be confused with AdSense and AdWords, which are the advertising services Google offers for websites.
@@ -21,7 +16,7 @@ You can earn high earnings based on the popularity of your application, thanks t
 
 ## How can I apply ⁉️
 
-![Admob1](admob1.png)
+![admob1](https://github.com/ladlajutt-eng/AdMobApp/assets/119587816/143e1d5d-e583-4ec0-a92b-153e94934811)
 
 Developers with existing AdSense accounts can sync this account with AdMob for mobile applications and start using it immediately. If you do not have an advertising account, you can click here to apply immediately. AdMob not only provides revenue, helps you learn your audience as well. Thanks to AdMob's advanced reporting system, from which country, clicks from which age range, what kind of device you buy, how many people started to follow your application after an update. You can see many important information in detail. If you wish, you can also use the Google Analytics service in AdMob. In this way, you can also get detailed information about the audience using your application. In the light of this information, it is possible to reach more users by making new plans.
 
